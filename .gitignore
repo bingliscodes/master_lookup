@@ -1,1 +1,11 @@
+# .gitignore content
 .env
+**.csv
+**.xlsx
+**.png
+**.pkl
+# other files or directories to ignore
+.vscode/
+__pycache__/
+*.pyc
+.conda/
